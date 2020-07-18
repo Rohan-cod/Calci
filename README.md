@@ -1,5 +1,5 @@
 # Calci
-An IOS Calculator App 🖩
+An IOS Calculator App 📱
 
 ## Screenshots
 
